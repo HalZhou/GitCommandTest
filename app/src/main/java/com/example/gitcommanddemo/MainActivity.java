@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Log.d(TAG, "onCreate: 第一次更改 ");
+        Log.d(TAG, "onCreate: 第二次修改");
     }
 }
