@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
 
         Log.d(TAG, "onCreate: 第一次更改 ");
         Log.d(TAG, "onCreate: 第二次修改");
+        Log.d(TAG, "onCreate: 第三次修改");
     }
 }
